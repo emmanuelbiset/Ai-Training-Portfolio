@@ -1,0 +1,332 @@
+# Dataset: Problemas de Razonamiento en la Propuesta Derrida para Abogados
+
+## Resumen por Categoría
+
+| Categoría | Total Problemas | Impacto Predominante |
+|-----------|:--------------:|----------------------|
+| Ambigüedad | 5 | Medio |
+| Razonamiento | 5 | Medio–Alto |
+| Edge Case | 5 | Alto (usuarios hispanohablantes) |
+| Instrucción Compleja | 4 | Medio–Alto |
+| Suposición Implícita | 4 | Alto |
+| Problema de Scope | 3 | Bajo–Medio |
+| Contradicción | 3 | Alto |
+| **TOTAL** | **29** | — |
+
+---
+
+## Ambigüedad
+
+### 1. Fase 1: 'Lee loosely'
+
+**Problema:** La instrucción 'lee loosamente' es subjetiva y no define qué nivel de profundidad es suficiente para avanzar.
+
+**Ejemplo / Caso concreto:** Un usuario estudia Saussure durante 4 horas diarias creyendo que debe dominarlo; otro lo hojea en 20 minutos. Ambos siguen la instrucción.
+
+**Impacto potencial:** Alto: produce resultados de aprendizaje radicalmente distintos entre usuarios.
+
+**Sugerencia de mejora:** Especificar: 'Lee hasta poder explicar con tus propias palabras qué es un signo lingüístico y por qué el significado es relacional.'
+
+### 2. Estimación: '1–2 horas por semana'
+
+**Problema:** No queda claro si ese tiempo incluye relectura, toma de notas, búsqueda de términos desconocidos o solo lectura continua.
+
+**Ejemplo / Caso concreto:** Un abogado con poca experiencia lectora filosófica necesitará 4–5 horas para el mismo material que otro tarda 1.
+
+**Impacto potencial:** Medio: frustración y abandono si el tiempo real supera lo prometido.
+
+**Sugerencia de mejora:** Desagregar: '1h de lectura + 30 min de notas o preguntas propias por semana, ajusta según tu ritmo.'
+
+### 3. Fase 2: 'Read loosely, don't take notes like a law student'
+
+**Problema:** Contradice la instrucción posterior de 'take notes in your own words'. Cuándo aplicar cada modo no está definido.
+
+**Ejemplo / Caso concreto:** ¿En qué momento exactamente el usuario debe pasar de leer suelto a tomar notas? ¿A mitad de la Fase 2? ¿Al empezar la Fase 3?
+
+**Impacto potencial:** Medio: confusión metodológica en la transición entre fases.
+
+**Sugerencia de mejora:** Separar explícitamente: 'En Fase 1 no tomes notas. En Fase 2, semanas 3–5, sí toma notas breves en tus propias palabras.'
+
+### 4. Fase 3: 'Read it twice'
+
+**Problema:** No especifica si la segunda lectura debe ser inmediata, días después, ni con qué propósito diferente a la primera.
+
+**Ejemplo / Caso concreto:** Leer dos veces seguido el mismo día es distinto a leer una vez, reflexionar una semana, y releer.
+
+**Impacto potencial:** Bajo–Medio: el usuario puede cumplir la forma sin obtener el beneficio cognitivo.
+
+**Sugerencia de mejora:** Indicar: 'Segunda lectura al menos 3 días después de la primera, enfocándote en pasajes que no entendiste.'
+
+### 5. Fase 4: 'Dip into the opening two chapters'
+
+**Problema:** 'Dip into' no establece qué nivel de comprensión es requerido ni si el usuario debe continuar si se pierde.
+
+**Ejemplo / Caso concreto:** Puede llevar a que el usuario abandone a la primera página difícil o, al contrario, que lea las 100 páginas completas.
+
+**Impacto potencial:** Medio: la instrucción más vaga se aplica al texto más difícil del plan.
+
+**Sugerencia de mejora:** Redefinir: 'Lee las primeras 30 páginas. Si te pierdes, vuelve a releer el capítulo de Norris sobre logocentrismo antes de continuar.'
+
+---
+
+## Razonamiento
+
+### 6. Secuencia: Saussure antes de Husserl
+
+**Problema:** La propuesta no justifica por qué Saussure debe preceder a Husserl cuando Derrida los ataca simultáneamente y sus críticas se entrelazan.
+
+**Ejemplo / Caso concreto:** Un lector que entiende Husserl primero podría encontrar Saussure más fácil como contraste. No hay argumento de por qué este orden es óptimo.
+
+**Impacto potencial:** Bajo: el orden puede no ser el más pedagógicamente eficiente para todos.
+
+**Sugerencia de mejora:** Justificar explícitamente el orden o reconocer que puede invertirse según preferencia del lector.
+
+### 7. Afirmación: 'Derrida es para abogados'
+
+**Problema:** La propuesta argumenta que los abogados ya piensan derrideanamente, pero no distingue entre práctica retórica y rigor filosófico.
+
+**Ejemplo / Caso concreto:** Un abogado que explota ambigüedad contractual no necesariamente entiende la crítica metafísica de la presencia. El argumento analógico puede crear falsa confianza.
+
+**Impacto potencial:** Medio: el usuario puede creer que ya 'entiende' Derrida sin haber comprendido su aparato conceptual.
+
+**Sugerencia de mejora:** Matizar: 'Esta analogía es útil para motivación inicial, pero Derrida va más allá de la ambigüedad textual técnica.'
+
+### 8. Omisión: no hay criterio de evaluación de comprensión
+
+**Problema:** El plan nunca indica cómo sabe el usuario si realmente comprendió algo antes de avanzar.
+
+**Ejemplo / Caso concreto:** Un usuario puede completar todas las fases sin haber entendido différance y creer que está listo para leer a Balkin.
+
+**Impacto potencial:** Alto: sin checkpoints, el plan puede producir una ilusión de aprendizaje.
+
+**Sugerencia de mejora:** Añadir hitos: '¿Puedes explicar différance en 3 oraciones sin jerga? Si no, relee el capítulo X antes de continuar.'
+
+### 9. Estimación total: '4–6 meses'
+
+**Problema:** El plan suma 3–4 + 4–6 + 6–8 + 4 semanas = 17–22 semanas mínimo, pero dice '4–6 meses' sin mostrar el cálculo.
+
+**Ejemplo / Caso concreto:** 17 semanas = ~4 meses en el límite inferior, pero si el usuario lee lento o repite textos, fácilmente son 8–10 meses.
+
+**Impacto potencial:** Medio: subestimación puede frustrar al usuario con agenda ajustada.
+
+**Sugerencia de mejora:** Mostrar la aritmética y dar un rango honesto: '4 a 8 meses dependiendo del ritmo y la necesidad de releer.'
+
+### 10. Afirmación: 'Norris es claro y escrito para lectores generales'
+
+**Problema:** Norris asume familiaridad con teoría literaria continental. Para un abogado sin esa base puede no ser tan accesible como se promete.
+
+**Ejemplo / Caso concreto:** Un lector sin contexto literario puede encontrar confusas las referencias de Norris a Derrida vs. Paul de Man, Lacan, etc.
+
+**Impacto potencial:** Medio: mala calibración de dificultad puede desalentar al usuario.
+
+**Sugerencia de mejora:** Advertir: 'Norris puede resultar denso en los capítulos sobre deconstrucción literaria; concéntrate en los capítulos 1–3.'
+
+---
+
+## Edge Case
+
+### 11. Usuario con experiencia previa en filosofía continental
+
+**Problema:** El plan no contempla al usuario que ya leyó a Husserl o estudió semiótica. Obligarlo a empezar desde Fase 1 sería redundante.
+
+**Ejemplo / Caso concreto:** Un abogado con licenciatura previa en humanidades perdería 6–8 semanas en material que ya conoce.
+
+**Impacto potencial:** Bajo: ineficiencia, no error crítico.
+
+**Sugerencia de mejora:** Añadir una 'evaluación de entrada': 3 preguntas diagnósticas para saltar fases ya dominadas.
+
+### 12. Usuario con muy poco tiempo (menos de 1h/semana)
+
+**Problema:** El plan asume disponibilidad mínima de 1–2h/semana constante. No da alternativas para ritmos más lentos.
+
+**Ejemplo / Caso concreto:** Un socio de firma grande puede tener 20–30 minutos semanales. El plan no dice si puede funcionar en 12–18 meses a ese ritmo.
+
+**Impacto potencial:** Medio: exclusión de un perfil muy común en el público objetivo.
+
+**Sugerencia de mejora:** Añadir variante: 'Si tienes menos de 1h/semana, extiende cada fase al doble y reduce las lecturas a solo los textos marcados con *.
+
+### 13. Usuario que no lee inglés cómodamente
+
+**Problema:** Todos los textos recomendados están en inglés. La propuesta no menciona traducciones ni si existen.
+
+**Ejemplo / Caso concreto:** Derrida fue traducido al español (Siglo XXI, Amorrortu). Culler y Norris no tienen traducciones tan accesibles. El usuario hispanohablante queda sin guía.
+
+**Impacto potencial:** Alto para usuarios hispanohablantes: el plan es inutilizable sin este ajuste.
+
+**Sugerencia de mejora:** Indicar traducciones disponibles o rutas alternativas en español, especialmente para *De la Gramatología* y *La Escritura y la Diferencia*.
+
+### 14. Usuario que abandona Fase 3 por dificultad extrema
+
+**Problema:** El plan no tiene protocolo de rescate si el usuario se bloquea en los textos primarios.
+
+**Ejemplo / Caso concreto:** Alguien que no puede con 'Différance' después de 2 lecturas no tiene instrucción de qué hacer a continuación.
+
+**Impacto potencial:** Medio–Alto: punto de abandono más probable del plan.
+
+**Sugerencia de mejora:** Añadir: 'Si después de 2 lecturas el texto sigue siendo opaco, busca el comentario de X sobre ese ensayo antes de la tercera lectura.'
+
+### 15. Usuario que ya conoce Critical Legal Studies
+
+**Problema:** La Fase 4 puede ser trivial para alguien que ya leyó a Duncan Kennedy o Unger. El plan no lo contempla.
+
+**Ejemplo / Caso concreto:** Un profesor de derecho constitucional puede saltarse Fase 4 y necesitar ir directamente a textos primarios más avanzados.
+
+**Impacto potencial:** Bajo: ineficiencia, posible desmotivación por falta de reto.
+
+**Sugerencia de mejora:** Ofrecer lecturas de profundización para usuarios avanzados en cada fase.
+
+---
+
+## Instrucción Compleja
+
+### 16. Fase 2: leer Norris Y Culler simultáneamente
+
+**Problema:** La instrucción dice 'alongside or after Norris', creando dos rutas sin explicar cuál es preferible ni cómo combinarlas.
+
+**Ejemplo / Caso concreto:** El usuario no sabe si debe alternar capítulos, leer uno completo primero, o qué hacer si los autores se contradicen.
+
+**Impacto potencial:** Medio: sobrecarga cognitiva en la fase más importante del plan.
+
+**Sugerencia de mejora:** Decidir: 'Lee Norris completo primero (semanas 1–3), luego Culler capítulos 4–6 (semanas 4–5).'
+
+### 17. Fase 3: leer Derrida con Norris 'open beside you'
+
+**Problema:** Implica lectura paralela de dos textos difíciles, lo cual requiere habilidades de lectura filosófica que el usuario probablemente no tiene aún.
+
+**Ejemplo / Caso concreto:** ¿Consulta Norris antes de leer el párrafo, después, o solo cuando hay confusión? No se especifica.
+
+**Impacto potencial:** Medio: la mecánica de la lectura dual no está explicada.
+
+**Sugerencia de mejora:** Detallar el protocolo: 'Lee un párrafo de Derrida, intenta parafrasearlo, luego consulta Norris solo si no puedes.'
+
+### 18. Fase 3: Limited Inc. requiere leer a Austin primero
+
+**Problema:** El plan recomienda leer *Limited Inc.* sin indicar que Derrida dialoga explícitamente con *How to Do Things With Words* de Austin.
+
+**Ejemplo / Caso concreto:** Sin leer a Austin, el debate de Derrida con Searle es incomprensible. El plan omite este prerequisito crítico.
+
+**Impacto potencial:** Alto: el texto más relevante para abogados queda sin contexto suficiente.
+
+**Sugerencia de mejora:** Añadir: 'Antes de Limited Inc., lee los capítulos 1–3 de How to Do Things With Words de Austin (aprox. 2h).'
+
+### 19. Fase 4: leer Balkin + Cornell + aplicar a casos
+
+**Problema:** La Fase 4 pide leer dos textos académicos densos Y simultáneamente desarrollar una aplicación práctica, sin secuencia clara.
+
+**Ejemplo / Caso concreto:** ¿El usuario aplica la lente derridiana mientras lee a Balkin, o después de terminar a Cornell? No hay ruta.
+
+**Impacto potencial:** Medio: la fase más práctica es también la menos estructurada.
+
+**Sugerencia de mejora:** Secuenciar: 'Semana 1–2: Balkin. Semana 3: elige una sentencia y aplica su método. Semana 4: Cornell.'
+
+---
+
+## Suposición Implícita
+
+### 20. El usuario tiene acceso a todos los textos
+
+**Problema:** El plan asume que los libros recomendados están disponibles, pero varios son de difícil acceso o costosos.
+
+**Ejemplo / Caso concreto:** Culler (1982) puede costar $80–120 USD de segunda mano. *Of Grammatology* en inglés tiene ediciones de $30–50. Para un abogado en Argentina, el acceso puede ser limitado.
+
+**Impacto potencial:** Alto en contextos con restricción económica o geográfica.
+
+**Sugerencia de mejora:** Indicar alternativas: versiones digitales, acceso a JSTOR para artículos, o qué puede reemplazarse con recursos gratuitos.
+
+### 21. El usuario puede leer filosofía en inglés académico
+
+**Problema:** Norris, Culler, Balkin y Derrida en inglés requieren un nivel de lectura académica en ese idioma que no puede asumirse en todos los abogados.
+
+**Ejemplo / Caso concreto:** Un abogado con inglés intermedio tardará 3x más en textos como *Margins of Philosophy*.
+
+**Impacto potencial:** Alto: afecta directamente a todas las estimaciones de tiempo.
+
+**Sugerencia de mejora:** Evaluar el nivel de inglés como condición de entrada y ajustar tiempos o recomendar traducciones.
+
+### 22. La lectura filosófica es similar a la lectura jurídica
+
+**Problema:** El plan asume una transferencia de habilidades entre lectura de jurisprudencia y lectura filosófica continental que no es directa.
+
+**Ejemplo / Caso concreto:** Un abogado entrenado en lectura instrumental (¿qué resuelve este texto?) puede resistirse a la lectura performativa que Derrida exige.
+
+**Impacto potencial:** Medio: requiere un cambio de modo cognitivo que el plan no enseña explícitamente.
+
+**Sugerencia de mejora:** Incluir una breve guía de 'cómo leer filosofía continental' antes de la Fase 1, de 1–2 páginas.
+
+### 23. El error de confundir deconstrucción con relativismo es del lector
+
+**Problema:** El plan lista esto como un 'error común' del usuario, pero no considera que algunos textos secundarios como medios populares activamente refuerzan ese malentendido.
+
+**Ejemplo / Caso concreto:** Si el usuario googlea 'deconstruction' antes de leer Norris, encontrará artículos que confirman exactamente la confusión que el plan quiere evitar.
+
+**Impacto potencial:** Medio: la advertencia llega demasiado tarde en el plan.
+
+**Sugerencia de mejora:** Colocar la aclaración sobre relativismo al inicio del plan, antes de cualquier lectura.
+
+---
+
+## Problema de Scope
+
+### 24. Derrida 'tardío' completamente excluido
+
+**Problema:** El plan cubre al Derrida estructuralista y post-estructuralista (1966–1988) pero ignora el giro ético de los 90s (*Espectros de Marx*, *La hospitalidad*, *Dar la muerte*).
+
+**Ejemplo / Caso concreto:** Para abogados interesados en justicia, derechos humanos o filosofía del derecho, el Derrida tardío es tan relevante como el early. Cornell lo cita extensamente.
+
+**Impacto potencial:** Medio: el plan promete 'filosofía de Derrida' pero cubre solo una mitad.
+
+**Sugerencia de mejora:** Añadir una Fase 5 opcional de 2–3 semanas sobre el Derrida ético, o al menos mencionarlo como extensión.
+
+### 25. No hay guía para profundización post-plan
+
+**Problema:** El plan termina con la Fase 4 sin indicar qué hacer después para el usuario que quiera continuar.
+
+**Ejemplo / Caso concreto:** Un usuario que termina el plan motivado no sabe si leer *Specters of Marx*, abordar a Nancy, o volver a *Of Grammatology* completo.
+
+**Impacto potencial:** Bajo: oportunidad perdida de sostener el aprendizaje.
+
+**Sugerencia de mejora:** Añadir una sección 'Siguientes pasos' con 3–5 textos ordenados por dificultad.
+
+### 26. Ausencia total de recursos audiovisuales
+
+**Problema:** En 2024–2026 existen conferencias de Derrida disponibles en video, cursos online (Coursera, YouTube académico) y podcasts filosóficos que podrían complementar.
+
+**Ejemplo / Caso concreto:** Para un abogado con tiempo fragmentado, un podcast de 30 min puede ser más accesible que 1h de lectura densa.
+
+**Impacto potencial:** Bajo–Medio: el plan desaprovecha recursos de acceso más fácil.
+
+**Sugerencia de mejora:** Mencionar al menos 2–3 recursos audiovisuales confiables como complemento, especialmente para las Fases 1–2.
+
+---
+
+## Contradicción
+
+### 27. Fase 1: 'No tomes notas' vs. Fase 2: 'Toma notas'
+
+**Problema:** La Fase 1 dice 'read loosely' sin notas; la Fase 2 dice 'take notes in your own words'. No hay transición explícita entre los dos modos.
+
+**Ejemplo / Caso concreto:** El usuario en semana 3–4 (todavía en Fase 1) no sabe si ya puede empezar a tomar notas cuando empieza a leer sobre fenomenología.
+
+**Impacto potencial:** Medio: produce ansiedad metodológica innecesaria.
+
+**Sugerencia de mejora:** Aclarar: 'Hasta completar las 4 semanas de Fase 1, no tomes notas. Desde la semana 5 (Fase 2), sí hazlo.'
+
+### 28. El plan dice ser para alguien 'sin background técnico' pero recomienda textos muy técnicos
+
+**Problema:** La descripción inicial promete accesibilidad para un abogado sin formación filosófica, pero en Fase 3 recomienda *Margins of Philosophy* y *Of Grammatology* sin adaptación.
+
+**Ejemplo / Caso concreto:** *Margins of Philosophy* es catalogado como lectura avanzada incluso en programas de doctorado en filosofía.
+
+**Impacto potencial:** Alto: discordancia entre promesa de accesibilidad y nivel real de los textos.
+
+**Sugerencia de mejora:** O ajustar la descripción del público ('con apoyo de secundaria sólida') o reemplazar textos primarios de Fase 3 con antologías comentadas.
+
+### 29. Critica leer a Derrida sin contexto, pero no da contexto sobre la crítica de Derrida
+
+**Problema:** El plan advierte no leer a Derrida sin entender a Saussure y Husserl, pero tampoco explica qué argumentos específicos de Derrida se dirigen a cuáles argumentos de estos autores.
+
+**Ejemplo / Caso concreto:** El usuario sabe que Derrida 'reacciona' a la tradición pero no sabe exactamente a qué argumento de Husserl responde *La voz y el fenómeno*, por ejemplo.
+
+**Impacto potencial:** Medio: la preparación de contexto es parcial y puede no activarse al leer los textos primarios.
+
+**Sugerencia de mejora:** Añadir en cada texto primario: '¿Qué tesis de Saussure/Husserl está cuestionando Derrida aquí específicamente?'
